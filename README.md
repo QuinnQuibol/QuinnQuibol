@@ -6,8 +6,7 @@
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random Anime GIF">
 </p>
 
-### こんにちは! I'm a Developer in Progress... yes, in Progress 🫪
-### 2027 Grind is about to... begin 😈
+### こんにちは! I'm a Developer in Progress... yes, in progress 🫪
 
 *Currently exploring the world of programming, slowly but surely*
 
